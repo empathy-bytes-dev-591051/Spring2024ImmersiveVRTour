@@ -1,0 +1,85 @@
+# Image credits
+
+- `way_886044298_0.jpg` (Emory University Hospital Midtown): Harrison Keely, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0), https://commons.wikimedia.org/wiki/File:Emory_University_Hospital_Midtown_Atlanta,_Georgia.jpg
+- `way_886044298_1.jpg` (Emory University Hospital Midtown): Ganeshk, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Crawford_W_Long_Memorial_Hospital_2013_09_28_7686.JPG
+- `way_42706834_0.jpg` (Scheller College of Business): Daniel Mayer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Georgia_Tech_School_of_Management.JPG
+- `way_42706834_1.jpg` (Scheller College of Business): Mistercontributer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Tech_Tower-7.jpg
+- `way_42706834_2.jpg` (Scheller College of Business): The original uploader was WestinPeachtree at English Wikipedia., CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/), https://commons.wikimedia.org/wiki/File:Atltechsquare1.jpg
+- `way_28979077_0.jpg` (Federal Reserve Bank of Atlanta): Atlantacitizen, CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/), https://commons.wikimedia.org/wiki/File:FedReserve_Atlanta.jpg
+- `way_28979077_1.jpg` (Federal Reserve Bank of Atlanta): User:DukeArcTerex, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), https://commons.wikimedia.org/wiki/File:State_Bar_of_Georgia.JPG
+- `way_28979077_2.jpg` (Federal Reserve Bank of Atlanta): JJonahJackalope, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Federal_Reserve_Bank_of_Atlanta_Headquarters.jpg
+- `way_270006240_0.jpg` (Antioch Baptist Church North): JJonahJackalope, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Antioch_Baptist_Church_North.jpg
+- `way_42792936_0.jpg` (Crum and Forster Building): JJonahJackalope, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Crum_%26_Forster.jpg
+- `way_42792936_1.jpg` (Crum and Forster Building): Open Street Map authors, CC BY 2.5 (https://creativecommons.org/licenses/by/2.5), https://commons.wikimedia.org/wiki/File:Midtown_Atlanta_location_map.JPG
+- `way_42796835_0.jpg` (Bernie Marcus Nanotechnology Building): Disavian, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Marcus_Nanotechnology_Research_Building_2010.jpg
+- `way_42796835_1.jpg` (Bernie Marcus Nanotechnology Building): Mistercontributer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Tech_Tower-7.jpg
+- `relation_3178622_0.jpg` (G. Wayne Clough Undergraduate Learning Commons): Daderot, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en), https://commons.wikimedia.org/wiki/File:G._Wayne_Clough_Undergraduate_Learning_Commons_-_Georgia_Institute_of_Technology_-_DSC00776.JPG
+- `relation_3178622_1.jpg` (G. Wayne Clough Undergraduate Learning Commons): Mistercontributer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Tech_Tower-7.jpg
+- `relation_3178622_2.jpg` (G. Wayne Clough Undergraduate Learning Commons): LaMenta3, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:CULC_Model.jpg
+- `way_265351310_0.jpg` (All Saints Episcopal Church): JJonahJackalope, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:All_Saints%27_Episcopal_Church,_Atlanta,_Georgia.jpg
+- `way_265351310_1.jpg` (All Saints Episcopal Church): Open Street Map authors, CC BY 2.5 (https://creativecommons.org/licenses/by/2.5), https://commons.wikimedia.org/wiki/File:Midtown_Atlanta_location_map.JPG
+- `way_42706123_0.jpg` (Christopher W. Klaus Advanced Computing Building): The original uploader was Disavian at English Wikipedia., CC BY 2.5 (https://creativecommons.org/licenses/by/2.5), https://commons.wikimedia.org/wiki/File:Klaus_Building_Front.jpg
+- `way_42706123_1.jpg` (Christopher W. Klaus Advanced Computing Building): Mistercontributer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Tech_Tower-7.jpg
+- `way_42706123_2.jpg` (Christopher W. Klaus Advanced Computing Building): Disavian at English Wikipedia, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Binary_Bridge.jpg
+- `way_39449840_0.jpg` (Bank of America Plaza): Username11236, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:BOA_Plaza_ATL_GA.jpg
+- `way_39449840_1.jpg` (Bank of America Plaza): Marc Merlin, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Sunday_morning_kickball_game_on_the_Active_Oval_at_Piedmont_Park.jpg
+- `way_39449840_2.jpg` (Bank of America Plaza): Kailash U, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en), https://commons.wikimedia.org/wiki/File:Scraper_(259777575).jpeg
+- `way_42706747_0.jpg` (Marion L. Brittain Dining Hall): Excaliburhorn at English Wikipedia, Public domain, https://commons.wikimedia.org/wiki/File:Brittainhallgeorgiatech2.jpg
+- `way_42706747_1.jpg` (Marion L. Brittain Dining Hall): Mistercontributer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Tech_Tower-7.jpg
+- `way_42706747_2.jpg` (Marion L. Brittain Dining Hall): Excaliburhorn at English Wikipedia, Public domain, https://commons.wikimedia.org/wiki/File:Brittainhallinnovatorfaces.jpg
+- `way_1283686805_0.jpg` (Tower Square Plaza): Username11236, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Tower_Square_ATL.jpg
+- `way_1283686805_1.jpg` (Tower Square Plaza): Open Street Map authors, CC BY 2.5 (https://creativecommons.org/licenses/by/2.5), https://commons.wikimedia.org/wiki/File:Midtown_Atlanta_location_map.JPG
+- `way_179224195_0.jpg` (Campus Recreation Center): The original uploader was Disavian at English Wikipedia., CC BY 2.5 (https://creativecommons.org/licenses/by/2.5), https://commons.wikimedia.org/wiki/File:Georgia_Tech_CRC_Front.jpg
+- `way_179224195_1.jpg` (Campus Recreation Center): Mistercontributer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Tech_Tower-7.jpg
+- `way_179224195_2.jpg` (Campus Recreation Center): User Semnoz on fr.wikipedia, Public domain, https://commons.wikimedia.org/wiki/File:JO_Atlanta_1996_-_Piscine.jpg
+- `way_560915363_0.jpg` (Rodger A. and Helen B. Krone Engineered Biosystems Building): Boingit, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en), https://commons.wikimedia.org/wiki/File:Krone_Building.jpg
+- `way_208355446_0.jpg` (Fox Theatre): Frank Schulenburg, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Fox_Theatre,_Atlanta_(2024)-104A8449.jpg
+- `way_208355446_1.jpg` (Fox Theatre): Daniel Mayer, CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/), https://commons.wikimedia.org/wiki/File:Side_and_elevated_view_of_Fabulous_Fox_Threater.JPG
+- `way_208355446_2.jpg` (Fox Theatre): ShreyasMinocha, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Mitski_TLIIASAW_in_Fox_Theatre,_Atlanta.jpg
+- `way_234941897_0.jpg` (North Avenue Bus Platform): Xavierhouston1, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en), https://commons.wikimedia.org/wiki/File:NorthAvenueMARTA.jpg
+- `way_234941897_1.jpg` (North Avenue Bus Platform): The original uploader was Autiger at English Wikipedia., Public domain, https://commons.wikimedia.org/wiki/File:Coca-ColaHQ.jpg
+- `way_230593407_0.jpg` (Midtown Transit Station): DeKalb at en.wikipedia, CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/), https://commons.wikimedia.org/wiki/File:Midtown_MARTA_Station_-_Peachtree_Place_entrance.jpg
+- `way_230593407_1.jpg` (Midtown Transit Station): JJonahJackalope, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:MARTA_Midtown_station.jpg
+- `way_230593407_2.jpg` (Midtown Transit Station): The original uploader was Autiger at English Wikipedia., Public domain, https://commons.wikimedia.org/wiki/File:Coca-ColaHQ.jpg
+- `way_42706659_0.jpg` (Peters Parking Deck): Unknown (1884), Public domain, https://commons.wikimedia.org/wiki/File:PetersParkPlan.jpg
+- `way_42706659_1.jpg` (Peters Parking Deck): Atlanta Constitution, Public domain, https://commons.wikimedia.org/wiki/File:Peters_Park.jpg
+- `relation_302115_0.jpg` (William Vernon Skiles Building): Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:William_Vernon_Skiles.png
+- `relation_302115_1.jpg` (William Vernon Skiles Building): JJonahJackalope, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Skiles_Classroom_Building_sign,_Georgia_Tech.jpg
+- `relation_302115_2.jpg` (William Vernon Skiles Building): Matt Britt, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Georgia_Tech_Skiles_walkway.jpg
+- `relation_3178620_0.jpg` (Dorothy Murray Crosland Tower): Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Dorothy_Crosland,_circa_1952.png
+- `relation_3178620_1.jpg` (Dorothy Murray Crosland Tower): JJonahJackalope, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Crosland_Tower,_Georgia_Tech.jpg
+- `way_42706702_0.jpg` (Aaron S. French Building): National Iron and Steel Publishing Company
+
+(Life time: n/a), Public domain, https://commons.wikimedia.org/wiki/File:AaronFrench.png
+- `way_42706702_1.jpg` (Aaron S. French Building): Cbaile19, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en), https://commons.wikimedia.org/wiki/File:French_Mausolleum,_Allegheny_Cemetery,_01.jpg
+- `way_42706702_2.jpg` (Aaron S. French Building): MaxVeers, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), https://commons.wikimedia.org/wiki/File:AFrenchBuilding.jpg
+- `way_42830677_0.jpg` (D. M. Smith Building): Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:D._M._Smith,_circa_1950.png
+- `way_42830677_1.jpg` (D. M. Smith Building): JJonahJackalope, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Smith_Building,_Georgia_Tech.jpg
+- `way_42831047_0.jpg` (John Saylor Coon Building): Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:John_Saylor_Coon.png
+- `way_42831047_1.jpg` (John Saylor Coon Building): Mistercontributer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:John_Saylor_Coon_Building_Main_Entrance2.jpg
+- `way_42831047_2.jpg` (John Saylor Coon Building): GreaterPonce665, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:John_Saylor_Coon_Building_July_2021.jpg
+- `way_42831079_0.jpg` (Montgomery Knight Building): Stanley Studios, Public domain, https://commons.wikimedia.org/wiki/File:Montgomery_Knight,_circa_1934.png
+- `way_42831079_1.jpg` (Montgomery Knight Building): JJonahJackalope, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Montgomery_Knight_Building.jpg
+- `way_43331393_0.jpg` (Georgia Tech Research Institute North Building): Georgia Tech Research Institute, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), https://commons.wikimedia.org/wiki/File:Vaughn_Grace_GTRI_1985.jpg
+- `way_43331393_1.jpg` (Georgia Tech Research Institute North Building): Mistercontributer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Tech_Tower-7.jpg
+- `way_43331393_2.jpg` (Georgia Tech Research Institute North Building): Georgia Tech Research Institute, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), https://commons.wikimedia.org/wiki/File:Neely_Nuclear_Reactor.jpg
+- `way_43331406_0.jpg` (Georgia Tech Research Institute South Building): Georgia Tech Research Institute, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), https://commons.wikimedia.org/wiki/File:Vaughn_Grace_GTRI_1985.jpg
+- `way_43331406_1.jpg` (Georgia Tech Research Institute South Building): Mistercontributer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Tech_Tower-7.jpg
+- `way_43331406_2.jpg` (Georgia Tech Research Institute South Building): Georgia Tech Research Institute, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), https://commons.wikimedia.org/wiki/File:Neely_Nuclear_Reactor.jpg
+- `way_43335086_0.jpg` (Ivan Allen College of Liberal Arts): Mistercontributer, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Tech_Tower-7.jpg
+- `way_164876035_0.jpg` (Southern Company Gas): NRC, Public domain, https://commons.wikimedia.org/wiki/File:Vogtle_NPP.jpg
+- `way_269885893_0.jpg` (Wells Fargo): Marcus Qwertyus, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), https://commons.wikimedia.org/wiki/File:Wells_Fargo_Advisors_headguarters.jpg
+- `way_269885893_1.jpg` (Wells Fargo): Prayitno / Thank you for (12 millions +) view from Los Angeles, USA, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), https://commons.wikimedia.org/wiki/File:Wells_Fargo_(6079160244).jpg
+- `way_269885893_2.jpg` (Wells Fargo): WhisperToMe, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en), https://commons.wikimedia.org/wiki/File:WellsFargoChinatownHoustonnew.JPG
+- `way_269999264_0.jpg` (Bank of America Plaza ATM): No machine-readable author provided. Nopira assumed (based on copyright claims)., Public domain, https://commons.wikimedia.org/wiki/File:Bank_of_America_Corporate_Center.jpg
+- `way_269999264_1.jpg` (Bank of America Plaza ATM): Department of Homeland Security. Federal Emergency Management Agency. Public Affairs Division. 3/1/2003, Public domain, https://commons.wikimedia.org/wiki/File:Hoboken,_N.J.,_Nov._3,_2012_--_Bank_of_America_and_other_banks_have_set_up_mobile_ATMs_for_survivors_of_Hurricane_Sandy_get_cash_to_spend_at_stores_that_are_open_for_cash_customers._-_DPLA_-_def08f331beecb7cc3210f2c013d1a7a.jpg
+- `way_269999264_2.jpg` (Bank of America Plaza ATM): Benjamin Applebaum, Public domain, https://commons.wikimedia.org/wiki/File:Brian_Moynihan,_official_portrait,_Homeland_Security_Council.jpg
+- `way_1021839183_0.jpg` (BP): WhisperToMe, Public domain, https://commons.wikimedia.org/wiki/File:BPheadoffice.JPG
+- `way_1021839183_1.jpg` (BP): Alan Murray-Rust, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0), https://commons.wikimedia.org/wiki/File:Britannic_House,_Moorgate,_under_construction,_1966_-_geograph.org.uk_-_6450850.jpg
+- `way_1021839183_2.jpg` (BP): Cyril Farey, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en), https://commons.wikimedia.org/wiki/File:Britannic_House,_Finsbury_Circus,_London.png
+- `way_1283686807_0.jpg` (Bank of America Plaza): Username11236, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:BOA_Plaza_ATL_GA.jpg
+- `way_1283686807_1.jpg` (Bank of America Plaza): Marc Merlin, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:Sunday_morning_kickball_game_on_the_Active_Oval_at_Piedmont_Park.jpg
+- `way_1283686807_2.jpg` (Bank of America Plaza): Kailash U, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en), https://commons.wikimedia.org/wiki/File:Scraper_(259777575).jpeg
+- `way_1292463852_0.jpg` (Hub Atlanta): AtlChampion, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), https://commons.wikimedia.org/wiki/File:A2ATL20250614-0721_(cropped).jpg
+- `way_1292463852_1.jpg` (Hub Atlanta): Dennisrodman, Public domain, https://commons.wikimedia.org/wiki/File:DARLINGTON_ATLANTA_DAY_SKYLINE_1.jpg
+- `way_1292463852_2.jpg` (Hub Atlanta): Tom Driggers, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), https://commons.wikimedia.org/wiki/File:Coca_Cola_Hi-rise.jpg
